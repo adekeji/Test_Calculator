@@ -1,2 +1,2 @@
 django >=1.9, <2
-flask
+python-docx==0.8.10
