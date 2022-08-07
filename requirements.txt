@@ -1,3 +1,3 @@
 django >=1.9, <2
-python >=3.10.6, <3
-pylance >=3
+flask >=1.9, <2
+pylance >=1.9, <2
